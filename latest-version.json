@@ -1,10 +1,11 @@
-   {
-     "ios": "1.0.10",
-     "android": "1.0.10",
-     "updateUrl": {
-       "ios": "https://apps.apple.com/za/app/fines-sa/id6636538647",
-       "android": "https://play.google.com/store/apps/details?id=finessa.app",
-       "huawei":""
-     },
-     "forceUpdate": false
-   }
+{
+  "ios": "1.0.10",
+  "android": "1.0.11", 
+  "huawei": "1.0.11",
+  "updateUrl": {
+    "ios": "https://apps.apple.com/za/app/fines-sa/id6636538647",
+    "android": "https://play.google.com/store/apps/details?id=finessa.app",
+    "huawei": "https://appgallery.huawei.com/#/app/C113511739"
+  },
+  "forceUpdate": false
+}
