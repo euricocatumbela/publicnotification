@@ -1,11 +1,11 @@
 {
-  "ios": "",
-  "android": "", 
-  "huawei": "",
+  "ios": "2.0.0",
+  "android": "2.0.0", 
+  "huawei": "2.0.0",
   "updateUrl": {
     "ios": "https://apps.apple.com/za/app/fines-sa/id6636538647",
     "android": "https://play.google.com/store/apps/details?id=finessa.app",
     "huawei": "https://appgallery.huawei.com/#/app/C113511739"
   },
-  "forceUpdate": false
+  "forceUpdate": true
 }
